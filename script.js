@@ -1,8 +1,8 @@
 const pup = require('puppeteer');
 const scrollPageToBottom = require('puppeteer-autoscroll-down');
 let email = "terorev483@yncyjs.com";
-let username = "Kushagr11561555";
-let password = "hyiamusingtwitter@lol";
+let username = "";
+let password = "";
 let twitterLink = "https://www.twitter.com";
 
 let hashtagToUse = "#ipl2021";
